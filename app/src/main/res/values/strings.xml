@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apple Company Information</string>
+    <string name="apple">Apple</string>
+    <string name="description_txt"> Apple Inc. is an American multinational technology company headquartered in Cupertino, California that designs, develops, and sells consumer electronics, computer software, and online services. "\n"  "\n" Founded: 1 April 1976 "\n"  "\n"  Contact Information : "\n" "\n" Address: "\n" 1 Infinite Loop "\n" Cupertino, CA 95014 "\n" 408-996-1010 "\n" "\n" Tel: 1-800-My-Apple "\n" "\n" Visit: apple.com "\n" </string>
+</resources>
